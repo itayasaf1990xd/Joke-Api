@@ -1,0 +1,35 @@
+/* Favorite is external css */
+
+/*  id > class > tag */
+h1 {
+  color: red;
+  background-color: aqua;
+}
+
+a {
+  display: inline-block;
+  background-color: yellow;
+
+  width: 200px;
+  height: 200px;
+}
+
+.red-background-title {
+  background-color: red;
+}
+
+.blue-text-title {
+  color: blue;
+}
+
+#main-title {
+  color: green;
+}
+
+.blue-text-title {
+  color: blue;
+}
+
+/* li {
+  background-color: coral;
+} */
